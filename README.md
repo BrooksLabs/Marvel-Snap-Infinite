@@ -7,7 +7,8 @@
 <img width="300" height="158" alt="Screenshot 2026-10-07 234112" src="https://github.com/user-attachments/assets/138811d5-b406-4c17-815d-c6f0e6433b4c" />
 </div>
 <br></br>
-<center>An offline, fully unlocked version of Marvel Snap called "Marvel Snap: Infinite."</center>
+An offline, fully unlocked version of Marvel Snap called "Marvel Snap: Infinite."
+<br></br>
 Features:
 - Card Database: Features all 737 loaded cards and a studio to view variants, card backs, Icons and tokens in 3d.
 
