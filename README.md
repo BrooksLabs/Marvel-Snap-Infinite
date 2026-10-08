@@ -5,7 +5,6 @@
 <img width="300" height="158" alt="Screenshot 2026-10-07 234323" src="https://github.com/user-attachments/assets/d07660c4-9cb2-44b3-a643-623235f30679" />
 <img width="300" height="158" alt="Screenshot 2026-10-07 234246" src="https://github.com/user-attachments/assets/2061352e-b0b0-4e4d-b713-93476e992fe1" />
 <img width="300" height="158" alt="Screenshot 2026-10-07 234158" src="https://github.com/user-attachments/assets/861f5874-893a-488d-8225-7642eec3ef74" />
-<img width="300" height="158" alt="Screenshot 2026-10-07 234112" src="https://github.com/user-attachments/assets/138811d5-b406-4c17-815d-c6f0e6433b4c" />
 </div>
 An offline, fully unlocked version of Marvel Snap called "Marvel Snap: Infinite
 
